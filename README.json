@@ -1,0 +1,525 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Massdns",
+          "description": "A DNS resolver utility for bulk lookups",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-15T21:16:50Z",
+            "owner": "blechschmidt",
+            "repo": "massdns",
+            "stars": 3628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataSploit (IP Address Modules)",
+          "description": "An OSINT Framework to perform various recon techniques",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T09:35:33Z",
+            "owner": "DataSploit",
+            "repo": "datasploit",
+            "stars": 3310
+          }
+        }
+      ],
+      "title": "↑IP Address Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Amass",
+          "description": "A subdomain enumeration utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-19T05:16:40Z",
+            "owner": "owasp-amass",
+            "repo": "amass",
+            "stars": 14974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubFinder",
+          "description": "SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:22:49Z",
+            "owner": "projectdiscovery",
+            "repo": "subfinder",
+            "stars": 14186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoBuster",
+          "description": "Directory/File, DNS and VHost busting tool written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:33:28Z",
+            "owner": "OJ",
+            "repo": "gobuster",
+            "stars": 13986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sublist3r",
+          "description": "Subdomains enumeration tool with multiple sources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T00:00:30Z",
+            "owner": "aboul3la",
+            "repo": "Sublist3r",
+            "stars": 11018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aiodnsbrute",
+          "description": "Asynchronous DNS brute force utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-22T23:37:25Z",
+            "owner": "blark",
+            "repo": "aiodnsbrute",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluto",
+          "description": "Recon, Subdomain Bruting, Zone Transfers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-24T05:06:10Z",
+            "owner": "darryllane",
+            "repo": "Bluto",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appsecco - The art of subdomain enumeration",
+          "description": "The supplement material for the book \"The art of sub-domain enumeration\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-30T04:21:32Z",
+            "owner": "appsecco",
+            "repo": "the-art-of-subdomain-enumeration",
+            "stars": 664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ct-exposer",
+          "description": "A tool to discovers sub-domains by searching Certificate Transparency logs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-16T00:00:24Z",
+            "owner": "chris408",
+            "repo": "ct-exposer",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Certgraph",
+          "description": "A tool to crawl the graph of certificate Alternate Names",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T08:35:36Z",
+            "owner": "lanrat",
+            "repo": "certgraph",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LDNS",
+          "description": "A DNS library useful for DNS tool programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T14:57:07Z",
+            "owner": "NLnetLabs",
+            "repo": "ldns",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nsec3map",
+          "description": "A tool to NSEC and NSEC3 walking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-06T11:55:34Z",
+            "owner": "anonion0",
+            "repo": "nsec3map",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSLScrape",
+          "description": "A scanning tool to scrape hostnames from SSL certificates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-19T05:19:08Z",
+            "owner": "jhaddix",
+            "repo": "sslScrape",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "↑Domain / Subdomain Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Masscan",
+          "description": "An asynchronously TCP port scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-23T20:34:38Z",
+            "owner": "robertdavidgraham",
+            "repo": "masscan",
+            "stars": 25927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zmap",
+          "description": "A fast network scanner designed for Internet-wide network surveys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T13:40:03Z",
+            "owner": "zmap",
+            "repo": "zmap",
+            "stars": 6354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZMapv6",
+          "description": "A modified version of Zmap with IPv6 support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-31T15:30:32Z",
+            "owner": "tumi8",
+            "repo": "zmap",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "↑Network / Port Scanning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MicroBurst",
+          "description": "PowerShell based Azure security assessment scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-29T14:43:59Z",
+            "owner": "NetSPI",
+            "repo": "MicroBurst",
+            "stars": 2415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruler",
+          "description": "A tool to abuse Exchange services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-10T11:03:07Z",
+            "owner": "sensepost",
+            "repo": "ruler",
+            "stars": 2314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lyncsmash",
+          "description": "Tools to enumerate and attack self-hosted Lync/Skype for Business",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-01T11:22:01Z",
+            "owner": "nyxgeek",
+            "repo": "lyncsmash",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enumeration-as-a-Service",
+          "description": "Script for SaaS offering enumeration through DNS queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T03:33:15Z",
+            "owner": "sosdave",
+            "repo": "Enumeration-as-a-Service",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "↑Business Communication Infrastructure Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gitrob",
+          "description": "Reconnaissance tool for GitHub organizations",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-09-20T18:09:09Z",
+            "owner": "michenriksen",
+            "repo": "gitrob",
+            "stars": 6196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Github Advanced Search",
+          "children": []
+        }
+      ],
+      "title": "↑Source Code Aggregators / Search - Information Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GCPBucketBrute",
+          "description": "A Google Storage buckets enumeration script",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-26T19:11:42Z",
+            "owner": "RhinoSecurityLabs",
+            "repo": "GCPBucketBrute",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudScraper",
+          "description": "A tool to spider websites for cloud resources (S3 Buckets, Azure Blobs, DigitalOcean Storage Space)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-07T21:05:37Z",
+            "owner": "jordanpotti",
+            "repo": "CloudScraper",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spaces-finder",
+          "description": "A tool to hunt for publicly accessible DigitalOcean Spaces",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-21T05:15:32Z",
+            "owner": "appsecco",
+            "repo": "spaces-finder",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InSp3ctor",
+          "description": "AWS S3 Bucket/Object finder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-13T20:15:16Z",
+            "owner": "brianwarehime",
+            "repo": "inSp3ctor",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudStorageFinder",
+          "description": "Tools to find public data in cloud storage systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-10-08T13:31:08Z",
+            "owner": "digininja",
+            "repo": "CloudStorageFinder",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "↑Cloud Infrastructure Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PwnedOrNot",
+          "description": "Tool to find passwords for compromised accounts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-28T06:34:07Z",
+            "owner": "thewhiteh4t",
+            "repo": "pwnedOrNot",
+            "stars": 2616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scavenger",
+          "description": "Paste sites crawler (bot) looking for leaked credentials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-31T16:12:50Z",
+            "owner": "rndinfosecguy",
+            "repo": "Scavenger",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pwnbin",
+          "description": "Python based Pastebin crawler for keywords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-24T15:09:06Z",
+            "owner": "kahunalu",
+            "repo": "pwnbin",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pastebin_scraper",
+          "description": "Automated tool to monitor pastebin for interesting information",
+          "children": []
+        }
+      ],
+      "title": "↑Data Leaks"
+    },
+    {
+      "description": "In case you would like to add information to this repository or suggest some ideas, please use one of the following options:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Create an Issue",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-22T10:48:28Z",
+            "owner": "redhuntlabs",
+            "repo": "Awesome-Asset-Discovery",
+            "stars": 2807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Send us Pull Requests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-22T10:48:28Z",
+            "owner": "redhuntlabs",
+            "repo": "Awesome-Asset-Discovery",
+            "stars": 2807
+          }
+        }
+      ],
+      "title": "Contributing"
+    },
+    {
+      "description": "This work is licensed under CC0 1.0 Universal",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:49:27.846Z",
+    "original_repository": "redhuntlabs/Awesome-Asset-Discovery",
+    "original_repository_sha": "ec8ef35b3b7ccffd50905af1088a451de6ce9257",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Asset-Discovery",
+    "enhanced_repository_description": null,
+    "title": "Awesome Asset Discovery with stars"
+  }
+}
