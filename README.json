@@ -28,7 +28,7 @@
             "last_commit": "2025-11-20T09:35:33Z",
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3314
+            "stars": 3315
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14987
+            "stars": 14988
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-12T14:22:49Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14214
+            "stars": 14220
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:33:28Z",
+            "last_commit": "2026-08-17T22:02:56Z",
             "owner": "OJ",
             "repo": "gobuster",
             "stars": 13995
@@ -118,7 +118,7 @@
             "last_commit": "2022-09-24T05:06:10Z",
             "owner": "darryllane",
             "repo": "Bluto",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-04-23T20:34:38Z",
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25933
+            "stars": 25934
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2026-07-26T13:40:03Z",
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6360
+            "stars": 6359
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2418
+            "stars": 2419
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2022-03-31T16:12:50Z",
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 822
+            "stars": 823
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2021-08-24T15:09:06Z",
             "owner": "kahunalu",
             "repo": "pwnbin",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2025-01-22T10:48:28Z",
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2814
+            "stars": 2815
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2025-01-22T10:48:28Z",
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2814
+            "stars": 2815
           }
         }
       ],
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:58:45.954Z",
+    "last_updated": "2026-08-18T04:52:57.842Z",
     "original_repository": "redhuntlabs/Awesome-Asset-Discovery",
     "original_repository_sha": "ec8ef35b3b7ccffd50905af1088a451de6ce9257",
     "enhanced_repository": "enhansome/enhansome-Awesome-Asset-Discovery",
