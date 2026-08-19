@@ -48,7 +48,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14988
+            "stars": 14992
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-12T14:22:49Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14220
+            "stars": 14227
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-17T22:02:56Z",
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 13995
+            "stars": 13999
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-07-03T08:35:36Z",
             "owner": "lanrat",
             "repo": "certgraph",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-04-23T20:34:38Z",
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25934
+            "stars": 25935
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2419
+            "stars": 2420
           }
         },
         {
@@ -434,7 +434,7 @@
             "last_commit": "2026-03-28T06:34:07Z",
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2622
+            "stars": 2621
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2025-01-22T10:48:28Z",
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2815
+            "stars": 2819
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2025-01-22T10:48:28Z",
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2815
+            "stars": 2819
           }
         }
       ],
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:52:57.842Z",
+    "last_updated": "2026-08-19T04:52:16.847Z",
     "original_repository": "redhuntlabs/Awesome-Asset-Discovery",
     "original_repository_sha": "ec8ef35b3b7ccffd50905af1088a451de6ce9257",
     "enhanced_repository": "enhansome/enhansome-Awesome-Asset-Discovery",
