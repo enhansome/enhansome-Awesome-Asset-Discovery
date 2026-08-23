@@ -15,7 +15,7 @@
             "last_commit": "2026-04-15T21:16:50Z",
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3634
+            "stars": 3636
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15010
+            "stars": 15021
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 127519518,
             "language": "Go",
-            "last_commit": "2026-08-19T14:23:02Z",
+            "last_commit": "2026-08-22T18:49:23Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14256
+            "stars": 14272
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-17T22:02:56Z",
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14006
+            "stars": 14012
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-02T00:00:30Z",
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11023
+            "stars": 11021
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-03T08:35:36Z",
             "owner": "lanrat",
             "repo": "certgraph",
-            "stars": 379
+            "stars": 380
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-04-23T20:34:38Z",
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25939
+            "stars": 25942
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-26T13:40:03Z",
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6361
+            "stars": 6362
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2022-09-20T18:09:09Z",
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6198
+            "stars": 6197
           }
         }
       ],
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:49:55.735Z",
+    "last_updated": "2026-08-23T04:52:13.029Z",
     "original_repository": "redhuntlabs/Awesome-Asset-Discovery",
     "original_repository_id": 184055313,
     "original_repository_sha": "ec8ef35b3b7ccffd50905af1088a451de6ce9257",
