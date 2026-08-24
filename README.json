@@ -51,7 +51,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15028
+            "stars": 15031
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T18:49:23Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14283
+            "stars": 14289
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-17T22:02:56Z",
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14021
+            "stars": 14020
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-04-23T20:34:38Z",
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25943
+            "stars": 25944
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-26T13:40:03Z",
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6362
+            "stars": 6364
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2422
+            "stars": 2423
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2025-01-22T10:48:28Z",
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2827
+            "stars": 2829
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2025-01-22T10:48:28Z",
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2827
+            "stars": 2829
           }
         }
       ],
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:01:49.316Z",
+    "last_updated": "2026-08-24T14:00:26.172Z",
     "original_repository": "redhuntlabs/Awesome-Asset-Discovery",
     "original_repository_id": 184055313,
     "original_repository_sha": "ec8ef35b3b7ccffd50905af1088a451de6ce9257",
