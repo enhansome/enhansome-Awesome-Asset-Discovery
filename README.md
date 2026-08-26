@@ -35,7 +35,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)IP Address Discovery
 
 * [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,635 | 🐛 14 | 🌐 C | 📅 2026-04-15: A DNS resolver utility for bulk lookups
-* [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,314 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
+* [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,316 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
 * [Mxtoolbox](https://mxtoolbox.com/BulkLookup.aspx): Bulk Domain/IP lookup tool
 * [Domaintoipconverter](http://domaintoipconverter.com/): Bulk domain to IP converter
 * [Googleapps Dig](https://toolbox.googleapps.com/apps/dig/): Online Dig tool by Google
@@ -51,16 +51,16 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,037 | 🐛 237 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,298 | 🐛 2 | 🌐 Go | 📅 2026-08-22: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,021 | 🐛 21 | 🌐 Go | 📅 2026-08-17: Directory/File, DNS and VHost busting tool written in Go
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,044 | 🐛 237 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,310 | 🐛 2 | 🌐 Go | 📅 2026-08-22: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,031 | 🐛 21 | 🌐 Go | 📅 2026-08-17: Directory/File, DNS and VHost busting tool written in Go
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,024 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 675 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 668 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
 * [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 664 | 🐛 4 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
 * [Ct-exposer](https://github.com/chris408/ct-exposer) ⭐ 487 | 🐛 1 | 🌐 Python | 📅 2022-08-16: A tool to discovers sub-domains by searching Certificate Transparency logs
 * [Certgraph](https://github.com/lanrat/certgraph) ⭐ 380 | 🐛 3 | 🌐 Go | 📅 2026-07-03: A tool to crawl the graph of certificate Alternate Names
-* [LDNS](https://github.com/NLnetLabs/ldns) ⭐ 360 | 🐛 87 | 🌐 C | 📅 2026-08-05: A DNS library useful for DNS tool programming
+* [LDNS](https://github.com/NLnetLabs/ldns) ⭐ 360 | 🐛 88 | 🌐 C | 📅 2026-08-05: A DNS library useful for DNS tool programming
 * [Nsec3map](https://github.com/anonion0/nsec3map) ⭐ 218 | 🐛 10 | 🌐 Python | 📅 2023-03-06: A tool to NSEC and NSEC3 walking
 * [SSLScrape](https://github.com/jhaddix/sslScrape) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2019-01-19: A scanning tool to scrape hostnames from SSL certificates
 * [RedHunt Labs Attack Surface Recon API](https://devportal.redhuntlabs.com/home): RedHunt Labs' Recon API offers comprehensive domain intelligence and reconnaissance capabilities. With access to their extensive in-house database of over 6 billion records, including domains, subdomains, third-party SaaS, data leaks, and intelligent correlations, this API empowers you to enhance your Attack Surface Management and InfoSec workflows.
@@ -81,14 +81,14 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 25,950 | 🐛 414 | 🌐 C | 📅 2026-04-23: An asynchronously TCP port scanner
-* [Zmap](https://github.com/zmap/zmap) ⭐ 6,365 | 🐛 10 | 🌐 C | 📅 2026-07-26: A fast network scanner designed for Internet-wide network surveys
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 25,952 | 🐛 414 | 🌐 C | 📅 2026-04-23: An asynchronously TCP port scanner
+* [Zmap](https://github.com/zmap/zmap) ⭐ 6,366 | 🐛 10 | 🌐 C | 📅 2026-07-26: A fast network scanner designed for Internet-wide network surveys
 * [ZMapv6](https://github.com/tumi8/zmap) ⭐ 124 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
 
 ## [↑](#contents)Business Communication Infrastructure Discovery
 
-* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,424 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: PowerShell based Azure security assessment scripts
+* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,425 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: PowerShell based Azure security assessment scripts
 * [ruler](https://github.com/sensepost/ruler) ⭐ 2,313 | 🐛 14 | 🌐 Go | 📅 2024-06-10 : A tool to abuse Exchange services
 * [Lyncsmash](https://github.com/nyxgeek/lyncsmash) ⭐ 343 | 🐛 2 | 🌐 Python | 📅 2024-10-01: Tools to enumerate and attack self-hosted Lync/Skype for Business
 * [Enumeration-as-a-Service](https://github.com/sosdave/Enumeration-as-a-Service) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2022-12-07: Script for SaaS offering enumeration through DNS queries
@@ -137,7 +137,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Data Leaks
 
 * [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,628 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
-* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 824 | 🐛 1 | 🌐 Python | 📅 2022-03-31: Paste sites crawler (bot) looking for leaked credentials
+* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 825 | 🐛 1 | 🌐 Python | 📅 2022-03-31: Paste sites crawler (bot) looking for leaked credentials
 * [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 451 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
 * [Pastebin\_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information
@@ -156,8 +156,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 In case you would like to add information to this repository or suggest some ideas, please use one of the following options:
 
-* [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose) ⭐ 2,829 | 🐛 21 | 📅 2025-01-22.
-* [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls) ⭐ 2,829 | 🐛 21 | 📅 2025-01-22
+* [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose) ⭐ 2,832 | 🐛 21 | 📅 2025-01-22.
+* [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls) ⭐ 2,832 | 🐛 21 | 📅 2025-01-22
 * Drop an email to <contact@redhuntlabs.com>
 
 ## Connect
@@ -170,10 +170,10 @@ To connect with us:
 
 ## License
 
-This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntlabs/Awesome-Asset-Discovery/blob/master/License.md) ⭐ 2,829 | 🐛 21 | 📅 2025-01-22
+This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntlabs/Awesome-Asset-Discovery/blob/master/License.md) ⭐ 2,832 | 🐛 21 | 📅 2025-01-22
 
 ***
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
