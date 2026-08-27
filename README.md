@@ -52,9 +52,9 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Domain / Subdomain Discovery
 
 * [Amass](https://github.com/OWASP/Amass) ⭐ 15,049 | 🐛 238 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,316 | 🐛 4 | 🌐 Go | 📅 2026-08-26: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,318 | 🐛 4 | 🌐 Go | 📅 2026-08-26: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 * [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,042 | 🐛 21 | 🌐 Go | 📅 2026-08-17: Directory/File, DNS and VHost busting tool written in Go
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,023 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,024 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 675 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 668 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
 * [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 664 | 🐛 4 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
@@ -76,7 +76,7 @@ Through this repository, we want to put out a list of curated resources which he
 * [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages
 * [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc.
-* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,826 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
+* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,827 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
 * [Office365UserEnum](https://bitbucket.org/grimhacker/office365userenum/src/master/):  Enumerate valid usernames from Office 365 using ActiveSync.
 
 ## [↑](#contents)Network / Port Scanning
@@ -156,8 +156,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 In case you would like to add information to this repository or suggest some ideas, please use one of the following options:
 
-* [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose) ⭐ 2,834 | 🐛 20 | 📅 2025-01-22.
-* [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls) ⭐ 2,834 | 🐛 20 | 📅 2025-01-22
+* [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose) ⭐ 2,835 | 🐛 20 | 📅 2025-01-22.
+* [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls) ⭐ 2,835 | 🐛 20 | 📅 2025-01-22
 * Drop an email to <contact@redhuntlabs.com>
 
 ## Connect
@@ -170,7 +170,7 @@ To connect with us:
 
 ## License
 
-This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntlabs/Awesome-Asset-Discovery/blob/master/License.md) ⭐ 2,834 | 🐛 20 | 📅 2025-01-22
+This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntlabs/Awesome-Asset-Discovery/blob/master/License.md) ⭐ 2,835 | 🐛 20 | 📅 2025-01-22
 
 ***
 
