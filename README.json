@@ -16,7 +16,8 @@
             "owner": "blechschmidt",
             "repo": "massdns",
             "stars": 3635
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "DataSploit",
             "repo": "datasploit",
             "stars": 3316
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "↑IP Address Discovery"
@@ -51,8 +53,9 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15049
-          }
+            "stars": 15057
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 127519518,
             "language": "Go",
-            "last_commit": "2026-08-26T14:22:38Z",
+            "last_commit": "2026-08-27T18:53:08Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14318
-          }
+            "stars": 14328
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 26639347,
             "language": "Go",
-            "last_commit": "2026-08-17T22:02:56Z",
+            "last_commit": "2026-08-27T20:23:17Z",
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14042
-          }
+            "stars": 14046
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "aboul3la",
             "repo": "Sublist3r",
             "stars": 11024
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "blark",
             "repo": "aiodnsbrute",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "darryllane",
             "repo": "Bluto",
             "stars": 668
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "appsecco",
             "repo": "the-art-of-subdomain-enumeration",
             "stars": 664
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "chris408",
             "repo": "ct-exposer",
             "stars": 487
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "lanrat",
             "repo": "certgraph",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 72740793,
             "language": "C",
-            "last_commit": "2026-08-05T14:57:07Z",
+            "last_commit": "2026-08-28T14:20:38Z",
             "owner": "NLnetLabs",
             "repo": "ldns",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "anonion0",
             "repo": "nsec3map",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "jhaddix",
             "repo": "sslScrape",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "↑Domain / Subdomain Discovery"
@@ -237,8 +251,9 @@
             "last_commit": "2026-04-23T20:34:38Z",
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25956
-          }
+            "stars": 25959
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 7765403,
             "language": "C",
-            "last_commit": "2026-08-26T15:13:42Z",
+            "last_commit": "2026-08-28T04:15:23Z",
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6366
-          }
+            "stars": 6365
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "tumi8",
             "repo": "zmap",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "↑Network / Port Scanning"
@@ -288,8 +305,9 @@
             "last_commit": "2026-06-29T14:43:59Z",
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2426
-          }
+            "stars": 2427
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "sensepost",
             "repo": "ruler",
             "stars": 2313
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "nyxgeek",
             "repo": "lyncsmash",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "sosdave",
             "repo": "Enumeration-as-a-Service",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "↑Business Communication Infrastructure Discovery"
@@ -354,8 +375,9 @@
             "last_commit": "2022-09-20T18:09:09Z",
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6198
-          }
+            "stars": 6199
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "↑Source Code Aggregators / Search - Information Discovery"
@@ -376,7 +398,8 @@
             "owner": "RhinoSecurityLabs",
             "repo": "GCPBucketBrute",
             "stars": 573
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "jordanpotti",
             "repo": "CloudScraper",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "appsecco",
             "repo": "spaces-finder",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "brianwarehime",
             "repo": "inSp3ctor",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "digininja",
             "repo": "CloudStorageFinder",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "↑Cloud Infrastructure Discovery"
@@ -456,8 +483,9 @@
             "last_commit": "2026-03-28T06:34:07Z",
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2628
-          }
+            "stars": 2629
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -471,8 +499,9 @@
             "last_commit": "2022-03-31T16:12:50Z",
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 825
-          }
+            "stars": 826
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -487,7 +516,8 @@
             "owner": "kahunalu",
             "repo": "pwnbin",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "↑Data Leaks"
@@ -508,7 +538,8 @@
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
             "stars": 2835
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         },
         {
           "node_type": "item",
@@ -523,14 +554,15 @@
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
             "stars": 2835
-          }
+          },
+          "first_seen": "2026-08-28T16:39:23.274Z"
         }
       ],
       "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:15:20.140Z",
+    "last_updated": "2026-08-28T16:39:23.274Z",
     "original_repository_info": {
       "archived": false,
       "id": 184055313,
