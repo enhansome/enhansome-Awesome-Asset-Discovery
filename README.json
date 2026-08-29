@@ -111,7 +111,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-27T18:53:08Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "projectdiscovery",
             "repo": "subfinder",
             "stars": 14330,
@@ -143,7 +143,7 @@
             "open_issues": 21,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14050,
+            "stars": 14051,
             "topics": [
               "dns",
               "go",
@@ -793,7 +793,7 @@
             "open_issues": 4,
             "owner": "kahunalu",
             "repo": "pwnbin",
-            "stars": 450,
+            "stars": 449,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:19.002Z",
+    "last_updated": "2026-08-29T11:05:30.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",

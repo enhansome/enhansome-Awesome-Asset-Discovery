@@ -52,8 +52,8 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Domain / Subdomain Discovery
 
 * [Amass](https://github.com/OWASP/Amass) ⭐ 15,057 | 🐛 239 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,330 | 🐛 5 | 🌐 Go | 📅 2026-08-27: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,050 | 🐛 21 | 🌐 Go | 📅 2026-08-28: Directory/File, DNS and VHost busting tool written in Go
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,330 | 🐛 6 | 🌐 Go | 📅 2026-08-27: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,051 | 🐛 21 | 🌐 Go | 📅 2026-08-28: Directory/File, DNS and VHost busting tool written in Go
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,025 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 675 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 668 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
@@ -138,7 +138,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 * [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,629 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
 * [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 826 | 🐛 1 | 🌐 Python | 📅 2022-03-31: Paste sites crawler (bot) looking for leaked credentials
-* [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 450 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
+* [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 449 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
 * [Pastebin\_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information
 
