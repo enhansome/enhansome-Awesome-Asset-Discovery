@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3636,
+            "stars": 3638,
             "topics": [
               "bulk-dns",
               "dns",
@@ -79,7 +79,7 @@
             "open_issues": 239,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15063,
+            "stars": 15078,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 10,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14334,
+            "stars": 14342,
             "topics": [
               "bugbounty",
               "hacking",
@@ -139,11 +139,11 @@
             "id": 26639347,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T22:22:19Z",
-            "open_issues": 21,
+            "last_commit": "2026-08-30T23:49:28Z",
+            "open_issues": 23,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14054,
+            "stars": 14057,
             "topics": [
               "dns",
               "go",
@@ -167,10 +167,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2024-08-02T00:00:30Z",
-            "open_issues": 253,
+            "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11024,
+            "stars": 11026,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -314,7 +314,7 @@
             "open_issues": 88,
             "owner": "NLnetLabs",
             "repo": "ldns",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "dns",
               "dnssec"
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25962,
+            "stars": 25963,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -418,10 +418,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:15:23Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6366,
+            "stars": 6368,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:56:46.849Z",
+    "last_updated": "2026-08-31T10:51:54.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
