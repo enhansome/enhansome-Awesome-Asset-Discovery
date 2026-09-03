@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3641,
+            "stars": 3642,
             "topics": [
               "bulk-dns",
               "dns",
@@ -79,7 +79,7 @@
             "open_issues": 242,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15084,
+            "stars": 15088,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:11:58Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-02T14:22:37Z",
+            "open_issues": 3,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14356,
+            "stars": 14365,
             "topics": [
               "bugbounty",
               "hacking",
@@ -139,11 +139,11 @@
             "id": 26639347,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T23:49:28Z",
+            "last_commit": "2026-09-03T05:09:17Z",
             "open_issues": 23,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14066,
+            "stars": 14070,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11030,
+            "stars": 11029,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25963,
+            "stars": 25971,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -474,7 +474,7 @@
             "open_issues": 5,
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2429,
+            "stars": 2433,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -763,7 +763,7 @@
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 828,
+            "stars": 829,
             "topics": [
               "bot",
               "crawler",
@@ -820,7 +820,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2837,
+            "stars": 2836,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -848,7 +848,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2837,
+            "stars": 2836,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:47:13.270Z",
+    "last_updated": "2026-09-03T08:56:27.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -877,7 +877,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2837,
+      "stars": 2836,
       "topics": [
         "asset-discovery",
         "awesome-list",
