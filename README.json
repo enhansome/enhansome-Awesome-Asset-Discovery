@@ -79,7 +79,7 @@
             "open_issues": 242,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15122,
+            "stars": 15125,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T14:22:37Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-09T03:15:58Z",
+            "open_issues": 30,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14400,
+            "stars": 14404,
             "topics": [
               "bugbounty",
               "hacking",
@@ -139,11 +139,11 @@
             "id": 26639347,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T05:09:17Z",
+            "last_commit": "2026-09-09T04:03:37Z",
             "open_issues": 23,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14091,
+            "stars": 14093,
             "topics": [
               "dns",
               "go",
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 25993,
+            "stars": 25991,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6199,
+            "stars": 6197,
             "topics": [
               "github-api",
               "golang",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:52:19.988Z",
+    "last_updated": "2026-09-09T08:58:25.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
