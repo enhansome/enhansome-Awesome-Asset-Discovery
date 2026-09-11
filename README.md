@@ -34,7 +34,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)IP Address Discovery
 
-* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,643 | 🐛 14 | 🌐 C | 📅 2026-04-15: A DNS resolver utility for bulk lookups
+* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,645 | 🐛 14 | 🌐 C | 📅 2026-04-15: A DNS resolver utility for bulk lookups
 * [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,318 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
 * [Mxtoolbox](https://mxtoolbox.com/BulkLookup.aspx): Bulk Domain/IP lookup tool
 * [Domaintoipconverter](http://domaintoipconverter.com/): Bulk domain to IP converter
@@ -51,10 +51,10 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,134 | 🐛 242 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,413 | 🐛 35 | 🌐 Go | 📅 2026-09-09: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,099 | 🐛 23 | 🌐 Go | 📅 2026-09-09: Directory/File, DNS and VHost busting tool written in Go
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,039 | 🐛 254 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,143 | 🐛 242 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,416 | 🐛 8 | 🌐 Go | 📅 2026-09-09: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,106 | 🐛 23 | 🌐 Go | 📅 2026-09-09: Directory/File, DNS and VHost busting tool written in Go
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,041 | 🐛 254 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 675 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 669 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
 * [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 665 | 🐛 4 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
@@ -76,12 +76,12 @@ Through this repository, we want to put out a list of curated resources which he
 * [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages
 * [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc.
-* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,844 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
+* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,847 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
 * [Office365UserEnum](https://bitbucket.org/grimhacker/office365userenum/src/master/):  Enumerate valid usernames from Office 365 using ActiveSync.
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 25,996 | 🐛 414 | 🌐 C | 📅 2026-04-23: An asynchronously TCP port scanner
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 25,997 | 🐛 414 | 🌐 C | 📅 2026-04-23: An asynchronously TCP port scanner
 * [Zmap](https://github.com/zmap/zmap) ⭐ 6,374 | 🐛 11 | 🌐 C | 📅 2026-08-28: A fast network scanner designed for Internet-wide network surveys
 * [ZMapv6](https://github.com/tumi8/zmap) ⭐ 124 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
@@ -136,7 +136,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Data Leaks
 
-* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,635 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
+* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,637 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
 * [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 829 | 🐛 1 | 🌐 Python | 📅 2022-03-31: Paste sites crawler (bot) looking for leaked credentials
 * [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 450 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
@@ -156,8 +156,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 In case you would like to add information to this repository or suggest some ideas, please use one of the following options:
 
-* [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose) ⭐ 2,842 | 🐛 20 | 📅 2025-01-22.
-* [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls) ⭐ 2,842 | 🐛 20 | 📅 2025-01-22
+* [Create an Issue](https://github.com/redhuntlabs/Awesome-Asset-Discovery/issues/new/choose) ⭐ 2,841 | 🐛 20 | 📅 2025-01-22.
+* [Send us Pull Requests](https://github.com/redhuntlabs/Awesome-Asset-Discovery/pulls) ⭐ 2,841 | 🐛 20 | 📅 2025-01-22
 * Drop an email to <contact@redhuntlabs.com>
 
 ## Connect
@@ -170,10 +170,10 @@ To connect with us:
 
 ## License
 
-This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntlabs/Awesome-Asset-Discovery/blob/master/License.md) ⭐ 2,842 | 🐛 20 | 📅 2025-01-22
+This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntlabs/Awesome-Asset-Discovery/blob/master/License.md) ⭐ 2,841 | 🐛 20 | 📅 2025-01-22
 
 ***
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
