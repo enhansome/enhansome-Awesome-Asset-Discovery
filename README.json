@@ -79,7 +79,7 @@
             "open_issues": 242,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15173,
+            "stars": 15179,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 3,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14439,
+            "stars": 14449,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 24,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14125,
+            "stars": 14126,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11042,
+            "stars": 11040,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -191,7 +191,7 @@
             "open_issues": 4,
             "owner": "blark",
             "repo": "aiodnsbrute",
-            "stars": 675,
+            "stars": 674,
             "topics": [
               "async",
               "brute-force",
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26022,
+            "stars": 26026,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6198,
+            "stars": 6199,
             "topics": [
               "github-api",
               "golang",
@@ -820,7 +820,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -848,7 +848,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:27:03.262Z",
+    "last_updated": "2026-09-18T09:00:43.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -877,7 +877,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2843,
+      "stars": 2844,
       "topics": [
         "asset-discovery",
         "awesome-list",
