@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3645,
+            "stars": 3646,
             "topics": [
               "bulk-dns",
               "dns",
@@ -79,7 +79,7 @@
             "open_issues": 242,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15179,
+            "stars": 15190,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 3,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14449,
+            "stars": 14458,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 24,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14126,
+            "stars": 14136,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11040,
+            "stars": 11042,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -230,7 +230,7 @@
             "open_issues": 4,
             "owner": "darryllane",
             "repo": "Bluto",
-            "stars": 669,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6379,
+            "stars": 6382,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2645,
+            "stars": 2646,
             "topics": [
               "api",
               "hacked-emails",
@@ -820,7 +820,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2844,
+            "stars": 2845,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -848,7 +848,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2844,
+            "stars": 2845,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:00:43.907Z",
+    "last_updated": "2026-09-19T08:48:33.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -877,7 +877,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2844,
+      "stars": 2845,
       "topics": [
         "asset-discovery",
         "awesome-list",
