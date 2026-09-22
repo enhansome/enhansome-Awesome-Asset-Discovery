@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-07-19T05:16:40Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15197,
+            "stars": 15201,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:22:48Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-22T08:23:19Z",
+            "open_issues": 6,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14470,
+            "stars": 14475,
             "topics": [
               "bugbounty",
               "hacking",
@@ -140,10 +140,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T04:03:37Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14141,
+            "stars": 14146,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11043,
+            "stars": 11044,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26026,
+            "stars": 26030,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -495,7 +495,7 @@
             "open_issues": 14,
             "owner": "sensepost",
             "repo": "ruler",
-            "stars": 2312,
+            "stars": 2311,
             "topics": [
               "exchange",
               "mapi",
@@ -759,11 +759,11 @@
             "id": 124684873,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T08:39:39Z",
+            "last_commit": "2026-09-21T12:47:09Z",
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 835,
+            "stars": 837,
             "topics": [
               "bot",
               "crawler",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:56:48.456Z",
+    "last_updated": "2026-09-22T09:18:28.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
