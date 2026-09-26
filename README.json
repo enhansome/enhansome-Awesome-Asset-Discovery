@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3647,
+            "stars": 3648,
             "topics": [
               "bulk-dns",
               "dns",
@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3316,
+            "stars": 3317,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -79,7 +79,7 @@
             "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15217,
+            "stars": 15226,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 3,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14500,
+            "stars": 14505,
             "topics": [
               "bugbounty",
               "hacking",
@@ -140,10 +140,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T04:03:37Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14159,
+            "stars": 14161,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11042,
+            "stars": 11046,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -191,7 +191,7 @@
             "open_issues": 4,
             "owner": "blark",
             "repo": "aiodnsbrute",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "async",
               "brute-force",
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26035,
+            "stars": 26043,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6384,
+            "stars": 6385,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -474,7 +474,7 @@
             "open_issues": 5,
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2443,
+            "stars": 2444,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2652,
+            "stars": 2653,
             "topics": [
               "api",
               "hacked-emails",
@@ -820,7 +820,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2854,
+            "stars": 2856,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -848,7 +848,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2854,
+            "stars": 2856,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:36:57.252Z",
+    "last_updated": "2026-09-26T09:21:30.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -877,7 +877,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2854,
+      "stars": 2856,
       "topics": [
         "asset-discovery",
         "awesome-list",
