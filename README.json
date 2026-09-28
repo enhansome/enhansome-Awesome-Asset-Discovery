@@ -15,11 +15,11 @@
             "id": 61796725,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-04-15T21:16:50Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-27T18:50:59Z",
+            "open_issues": 13,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3649,
+            "stars": 3650,
             "topics": [
               "bulk-dns",
               "dns",
@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3317,
+            "stars": 3318,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -79,7 +79,7 @@
             "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15229,
+            "stars": 15236,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 5,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14510,
+            "stars": 14512,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14162,
+            "stars": 14166,
             "topics": [
               "dns",
               "go",
@@ -421,7 +421,7 @@
             "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6385,
+            "stars": 6387,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2653,
+            "stars": 2654,
             "topics": [
               "api",
               "hacked-emails",
@@ -817,10 +817,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-01-22T10:48:28Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2857,
+            "stars": 2861,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -845,10 +845,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-01-22T10:48:28Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2857,
+            "stars": 2861,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:00:31.865Z",
+    "last_updated": "2026-09-28T10:55:06.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -874,10 +874,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-01-22T10:48:28Z",
-      "open_issues": 20,
+      "open_issues": 19,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2857,
+      "stars": 2861,
       "topics": [
         "asset-discovery",
         "awesome-list",
