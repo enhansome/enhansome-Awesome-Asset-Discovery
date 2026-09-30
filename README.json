@@ -79,7 +79,7 @@
             "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15240,
+            "stars": 15238,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 6,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14518,
+            "stars": 14525,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14170,
+            "stars": 14175,
             "topics": [
               "dns",
               "go",
@@ -167,10 +167,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2024-08-02T00:00:30Z",
-            "open_issues": 254,
+            "open_issues": 255,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11047,
+            "stars": 11046,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -191,7 +191,7 @@
             "open_issues": 4,
             "owner": "blark",
             "repo": "aiodnsbrute",
-            "stars": 676,
+            "stars": 675,
             "topics": [
               "async",
               "brute-force",
@@ -289,8 +289,8 @@
             "id": 66890297,
             "language": "Go",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-03T08:35:36Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-30T06:24:58Z",
+            "open_issues": 2,
             "owner": "lanrat",
             "repo": "certgraph",
             "stars": 383,
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26044,
+            "stars": 26049,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6387,
+            "stars": 6389,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -474,7 +474,7 @@
             "open_issues": 5,
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2446,
+            "stars": 2445,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -495,7 +495,7 @@
             "open_issues": 14,
             "owner": "sensepost",
             "repo": "ruler",
-            "stars": 2310,
+            "stars": 2309,
             "topics": [
               "exchange",
               "mapi",
@@ -630,7 +630,7 @@
             "open_issues": 3,
             "owner": "jordanpotti",
             "repo": "CloudScraper",
-            "stars": 535,
+            "stars": 534,
             "topics": [
               "aws",
               "azure",
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2655,
+            "stars": 2656,
             "topics": [
               "api",
               "hacked-emails",
@@ -820,7 +820,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2862,
+            "stars": 2860,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -848,7 +848,7 @@
             "open_issues": 20,
             "owner": "redhuntlabs",
             "repo": "Awesome-Asset-Discovery",
-            "stars": 2862,
+            "stars": 2860,
             "topics": [
               "asset-discovery",
               "awesome-list",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T10:41:30.204Z",
+    "last_updated": "2026-09-30T10:29:51.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -877,7 +877,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2862,
+      "stars": 2860,
       "topics": [
         "asset-discovery",
         "awesome-list",
