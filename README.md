@@ -34,7 +34,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)IP Address Discovery
 
-* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,651 | 🐛 13 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
+* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,652 | 🐛 13 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
 * [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,319 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
 * [Mxtoolbox](https://mxtoolbox.com/BulkLookup.aspx): Bulk Domain/IP lookup tool
 * [Domaintoipconverter](http://domaintoipconverter.com/): Bulk domain to IP converter
@@ -51,10 +51,10 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,238 | 🐛 243 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,525 | 🐛 6 | 🌐 Go | 📅 2026-09-25: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,175 | 🐛 25 | 🌐 Go | 📅 2026-09-09: Directory/File, DNS and VHost busting tool written in Go
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,046 | 🐛 255 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,239 | 🐛 244 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,537 | 🐛 6 | 🌐 Go | 📅 2026-09-25: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,178 | 🐛 25 | 🌐 Go | 📅 2026-09-09: Directory/File, DNS and VHost busting tool written in Go
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,048 | 🐛 255 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 675 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 669 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
 * [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 665 | 🐛 4 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
@@ -81,15 +81,15 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,049 | 🐛 415 | 🌐 C | 📅 2026-04-23: An asynchronously TCP port scanner
-* [Zmap](https://github.com/zmap/zmap) ⭐ 6,389 | 🐛 11 | 🌐 C | 📅 2026-08-28: A fast network scanner designed for Internet-wide network surveys
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,053 | 🐛 415 | 🌐 C | 📅 2026-04-23: An asynchronously TCP port scanner
+* [Zmap](https://github.com/zmap/zmap) ⭐ 6,390 | 🐛 11 | 🌐 C | 📅 2026-08-28: A fast network scanner designed for Internet-wide network surveys
 * [ZMapv6](https://github.com/tumi8/zmap) ⭐ 124 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
 
 ## [↑](#contents)Business Communication Infrastructure Discovery
 
-* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,445 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: PowerShell based Azure security assessment scripts
-* [ruler](https://github.com/sensepost/ruler) ⭐ 2,309 | 🐛 14 | 🌐 Go | 📅 2024-06-10 : A tool to abuse Exchange services
+* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,446 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: PowerShell based Azure security assessment scripts
+* [ruler](https://github.com/sensepost/ruler) ⭐ 2,308 | 🐛 14 | 🌐 Go | 📅 2024-06-10 : A tool to abuse Exchange services
 * [Lyncsmash](https://github.com/nyxgeek/lyncsmash) ⭐ 343 | 🐛 2 | 🌐 Python | 📅 2024-10-01: Tools to enumerate and attack self-hosted Lync/Skype for Business
 * [Enumeration-as-a-Service](https://github.com/sosdave/Enumeration-as-a-Service) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2022-12-07: Script for SaaS offering enumeration through DNS queries
 * [Mxtoolbox](https://mxtoolbox.com/): Online tool to check mail exchanger (MX) records
@@ -136,8 +136,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Data Leaks
 
-* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,656 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
-* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 839 | 🐛 1 | 🌐 Python | 📅 2026-09-24: Paste sites crawler (bot) looking for leaked credentials
+* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,657 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
+* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 840 | 🐛 1 | 🌐 Python | 📅 2026-09-24: Paste sites crawler (bot) looking for leaked credentials
 * [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 450 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
 * [Pastebin\_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information
@@ -176,4 +176,4 @@ This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
