@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3651,
+            "stars": 3650,
             "topics": [
               "bulk-dns",
               "dns",
@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3319,
+            "stars": 3320,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -79,7 +79,7 @@
             "open_issues": 244,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15242,
+            "stars": 15247,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -111,10 +111,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-25T04:17:58Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14542,
+            "stars": 14549,
             "topics": [
               "bugbounty",
               "hacking",
@@ -191,7 +191,7 @@
             "open_issues": 4,
             "owner": "blark",
             "repo": "aiodnsbrute",
-            "stars": 675,
+            "stars": 674,
             "topics": [
               "async",
               "brute-force",
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26056,
+            "stars": 26059,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -495,7 +495,7 @@
             "open_issues": 14,
             "owner": "sensepost",
             "repo": "ruler",
-            "stars": 2309,
+            "stars": 2311,
             "topics": [
               "exchange",
               "mapi",
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6197,
+            "stars": 6196,
             "topics": [
               "github-api",
               "golang",
@@ -763,7 +763,7 @@
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "bot",
               "crawler",
@@ -800,72 +800,10 @@
         }
       ],
       "title": "↑Data Leaks"
-    },
-    {
-      "description": "In case you would like to add information to this repository or suggest some ideas, please use one of the following options:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Create an Issue",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of Awesome Asset Discovery Resources",
-            "homepage": null,
-            "id": 184055313,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2025-01-22T10:48:28Z",
-            "open_issues": 20,
-            "owner": "redhuntlabs",
-            "repo": "Awesome-Asset-Discovery",
-            "stars": 2860,
-            "topics": [
-              "asset-discovery",
-              "awesome-list",
-              "infosec",
-              "osint",
-              "recon",
-              "reconnaissance"
-            ]
-          },
-          "first_seen": "2026-08-28T16:39:23.274Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Send us Pull Requests",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of Awesome Asset Discovery Resources",
-            "homepage": null,
-            "id": 184055313,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2025-01-22T10:48:28Z",
-            "open_issues": 20,
-            "owner": "redhuntlabs",
-            "repo": "Awesome-Asset-Discovery",
-            "stars": 2860,
-            "topics": [
-              "asset-discovery",
-              "awesome-list",
-              "infosec",
-              "osint",
-              "recon",
-              "reconnaissance"
-            ]
-          },
-          "first_seen": "2026-08-28T16:39:23.274Z"
-        }
-      ],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:30:37.394Z",
+    "last_updated": "2026-10-03T04:24:57.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
