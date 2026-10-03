@@ -79,7 +79,7 @@
             "open_issues": 244,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15247,
+            "stars": 15249,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14549,
+            "stars": 14551,
             "topics": [
               "bugbounty",
               "hacking",
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26059,
+            "stars": 26060,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:57.983Z",
+    "last_updated": "2026-10-03T09:52:41.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
