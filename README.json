@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3320,
+            "stars": 3322,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -79,7 +79,7 @@
             "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15263,
+            "stars": 15280,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14554,
+            "stars": 14556,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14185,
+            "stars": 14187,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 255,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11049,
+            "stars": 11050,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -230,7 +230,7 @@
             "open_issues": 4,
             "owner": "darryllane",
             "repo": "Bluto",
-            "stars": 669,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26061,
+            "stars": 26059,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -609,7 +609,7 @@
             "open_issues": 7,
             "owner": "RhinoSecurityLabs",
             "repo": "GCPBucketBrute",
-            "stars": 574,
+            "stars": 575,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2657,
+            "stars": 2656,
             "topics": [
               "api",
               "hacked-emails",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:34:59.550Z",
+    "last_updated": "2026-10-05T11:29:45.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -815,7 +815,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2860,
+      "stars": 2859,
       "topics": [
         "asset-discovery",
         "awesome-list",
