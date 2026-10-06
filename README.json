@@ -16,10 +16,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-27T18:50:59Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3650,
+            "stars": 3652,
             "topics": [
               "bulk-dns",
               "dns",
@@ -79,7 +79,7 @@
             "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15280,
+            "stars": 15294,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-25T04:17:58Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-05T12:53:25Z",
+            "open_issues": 5,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14556,
+            "stars": 14562,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14187,
+            "stars": 14193,
             "topics": [
               "dns",
               "go",
@@ -191,7 +191,7 @@
             "open_issues": 4,
             "owner": "blark",
             "repo": "aiodnsbrute",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "async",
               "brute-force",
@@ -396,11 +396,11 @@
             "id": 11715753,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-04-23T20:34:38Z",
-            "open_issues": 415,
+            "last_commit": "2026-10-05T19:51:27Z",
+            "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26059,
+            "stars": 26063,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6390,
+            "stars": 6391,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -447,7 +447,7 @@
             "open_issues": 3,
             "owner": "tumi8",
             "repo": "zmap",
-            "stars": 124,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -630,7 +630,7 @@
             "open_issues": 3,
             "owner": "jordanpotti",
             "repo": "CloudScraper",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "aws",
               "azure",
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2656,
+            "stars": 2660,
             "topics": [
               "api",
               "hacked-emails",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:29:45.015Z",
+    "last_updated": "2026-10-06T10:27:54.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -815,7 +815,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2859,
+      "stars": 2861,
       "topics": [
         "asset-discovery",
         "awesome-list",

@@ -34,7 +34,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)IP Address Discovery
 
-* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,650 | 🐛 13 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
+* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,652 | 🐛 14 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
 * [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,322 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
 * [Mxtoolbox](https://mxtoolbox.com/BulkLookup.aspx): Bulk Domain/IP lookup tool
 * [Domaintoipconverter](http://domaintoipconverter.com/): Bulk domain to IP converter
@@ -51,11 +51,11 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,280 | 🐛 243 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,556 | 🐛 7 | 🌐 Go | 📅 2026-09-25: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,187 | 🐛 25 | 🌐 Go | 📅 2026-09-09: Directory/File, DNS and VHost busting tool written in Go
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,294 | 🐛 243 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,562 | 🐛 5 | 🌐 Go | 📅 2026-10-05: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,193 | 🐛 25 | 🌐 Go | 📅 2026-09-09: Directory/File, DNS and VHost busting tool written in Go
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,050 | 🐛 255 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
-* [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 674 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
+* [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 675 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 670 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
 * [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 665 | 🐛 4 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
 * [Ct-exposer](https://github.com/chris408/ct-exposer) ⭐ 488 | 🐛 1 | 🌐 Python | 📅 2022-08-16: A tool to discovers sub-domains by searching Certificate Transparency logs
@@ -81,9 +81,9 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,059 | 🐛 415 | 🌐 C | 📅 2026-04-23: An asynchronously TCP port scanner
-* [Zmap](https://github.com/zmap/zmap) ⭐ 6,390 | 🐛 11 | 🌐 C | 📅 2026-08-28: A fast network scanner designed for Internet-wide network surveys
-* [ZMapv6](https://github.com/tumi8/zmap) ⭐ 124 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,063 | 🐛 414 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
+* [Zmap](https://github.com/zmap/zmap) ⭐ 6,391 | 🐛 11 | 🌐 C | 📅 2026-08-28: A fast network scanner designed for Internet-wide network surveys
+* [ZMapv6](https://github.com/tumi8/zmap) ⭐ 123 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
 
 ## [↑](#contents)Business Communication Infrastructure Discovery
@@ -106,7 +106,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Cloud Infrastructure Discovery
 
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) ⭐ 575 | 🐛 7 | 🌐 Python | 📅 2023-05-26: A Google Storage buckets enumeration script
-* [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 534 | 🐛 3 | 🌐 Python | 📅 2022-03-07: A tool to spider websites for cloud resources (S3 Buckets, Azure Blobs, DigitalOcean Storage Space)
+* [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 535 | 🐛 3 | 🌐 Python | 📅 2022-03-07: A tool to spider websites for cloud resources (S3 Buckets, Azure Blobs, DigitalOcean Storage Space)
 * [Spaces-finder](https://github.com/appsecco/spaces-finder) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2020-01-21: A tool to hunt for publicly accessible DigitalOcean Spaces
 * [InSp3ctor](https://github.com/brianwarehime/inSp3ctor) ⭐ 126 | 🐛 1 | 🌐 Python | 📅 2021-07-13: AWS S3 Bucket/Object finder
 * [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 85 | 🐛 0 | 🌐 Ruby | 📅 2025-10-08: Tools to find public data in cloud storage systems
@@ -136,7 +136,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Data Leaks
 
-* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,656 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
+* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,660 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
 * [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 842 | 🐛 1 | 🌐 Python | 📅 2026-09-24: Paste sites crawler (bot) looking for leaked credentials
 * [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 450 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
@@ -176,4 +176,4 @@ This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
