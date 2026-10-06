@@ -52,7 +52,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Domain / Subdomain Discovery
 
 * [Amass](https://github.com/OWASP/Amass) ⭐ 15,294 | 🐛 243 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,562 | 🐛 5 | 🌐 Go | 📅 2026-10-05: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,563 | 🐛 5 | 🌐 Go | 📅 2026-10-05: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 * [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,193 | 🐛 25 | 🌐 Go | 📅 2026-09-09: Directory/File, DNS and VHost busting tool written in Go
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,050 | 🐛 255 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 675 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
@@ -81,7 +81,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,063 | 🐛 414 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,064 | 🐛 414 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
 * [Zmap](https://github.com/zmap/zmap) ⭐ 6,391 | 🐛 11 | 🌐 C | 📅 2026-08-28: A fast network scanner designed for Internet-wide network surveys
 * [ZMapv6](https://github.com/tumi8/zmap) ⭐ 123 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
