@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3322,
+            "stars": 3321,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -79,7 +79,7 @@
             "open_issues": 243,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15294,
+            "stars": 15319,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:53:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-06T19:11:56Z",
+            "open_issues": 2,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14563,
+            "stars": 14566,
             "topics": [
               "bugbounty",
               "hacking",
@@ -139,11 +139,11 @@
             "id": 26639347,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T04:03:37Z",
+            "last_commit": "2026-10-07T04:04:35Z",
             "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14193,
+            "stars": 14197,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 255,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11050,
+            "stars": 11049,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -310,7 +310,7 @@
             "id": 72740793,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T12:38:30Z",
+            "last_commit": "2026-10-06T18:11:11Z",
             "open_issues": 87,
             "owner": "NLnetLabs",
             "repo": "ldns",
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26064,
+            "stars": 26062,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6196,
+            "stars": 6195,
             "topics": [
               "github-api",
               "golang",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:16:43.290Z",
+    "last_updated": "2026-10-07T11:04:58.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -815,7 +815,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2861,
+      "stars": 2863,
       "topics": [
         "asset-discovery",
         "awesome-list",
