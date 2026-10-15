@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3653,
+            "stars": 3654,
             "topics": [
               "bulk-dns",
               "dns",
@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3327,
+            "stars": 3328,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-07-19T05:16:40Z",
-            "open_issues": 244,
+            "open_issues": 246,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15354,
+            "stars": 15359,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-08T07:09:34Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-14T20:46:37Z",
+            "open_issues": 1,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14592,
+            "stars": 14597,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 25,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14212,
+            "stars": 14216,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 255,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11059,
+            "stars": 11060,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -251,7 +251,7 @@
             "open_issues": 4,
             "owner": "appsecco",
             "repo": "the-art-of-subdomain-enumeration",
-            "stars": 665,
+            "stars": 664,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -314,7 +314,7 @@
             "open_issues": 87,
             "owner": "NLnetLabs",
             "repo": "ldns",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "dns",
               "dnssec"
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26074,
+            "stars": 26077,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6400,
+            "stars": 6401,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -474,7 +474,7 @@
             "open_issues": 5,
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2464,
+            "stars": 2465,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -759,7 +759,7 @@
             "id": 124684873,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T11:29:33Z",
+            "last_commit": "2026-10-14T12:48:27Z",
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:31:03.906Z",
+    "last_updated": "2026-10-15T09:09:13.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -815,7 +815,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2871,
+      "stars": 2873,
       "topics": [
         "asset-discovery",
         "awesome-list",
