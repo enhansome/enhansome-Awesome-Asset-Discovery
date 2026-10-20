@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3653,
+            "stars": 3655,
             "topics": [
               "bulk-dns",
               "dns",
@@ -76,10 +76,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-07-19T05:16:40Z",
-            "open_issues": 245,
+            "open_issues": 246,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15375,
+            "stars": 15382,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-14T20:46:37Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-19T17:05:05Z",
+            "open_issues": 1,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14615,
+            "stars": 14626,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 26,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14227,
+            "stars": 14229,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11063,
+            "stars": 11064,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26082,
+            "stars": 26085,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 11,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6405,
+            "stars": 6406,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6196,
+            "stars": 6197,
             "topics": [
               "github-api",
               "golang",
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2666,
+            "stars": 2667,
             "topics": [
               "api",
               "hacked-emails",
@@ -763,7 +763,7 @@
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 853,
+            "stars": 855,
             "topics": [
               "bot",
               "crawler",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:54:51.914Z",
+    "last_updated": "2026-10-20T09:25:34.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -815,7 +815,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2878,
+      "stars": 2882,
       "topics": [
         "asset-discovery",
         "awesome-list",
