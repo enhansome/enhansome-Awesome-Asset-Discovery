@@ -30,12 +30,12 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Content Discovery
 
-* [rustbuster](https://github.com/phra/rustbuster) ⭐ 559 | 🐛 16 | 🌐 Rust | 📅 2023-07-21: Files, directories and vhost buster written in Rust.
+* [rustbuster](https://github.com/phra/rustbuster) ⭐ 560 | 🐛 16 | 🌐 Rust | 📅 2023-07-21: Files, directories and vhost buster written in Rust.
 
 ## [↑](#contents)IP Address Discovery
 
-* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,655 | 🐛 14 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
-* [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,331 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
+* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,656 | 🐛 14 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
+* [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,330 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
 * [Mxtoolbox](https://mxtoolbox.com/BulkLookup.aspx): Bulk Domain/IP lookup tool
 * [Domaintoipconverter](http://domaintoipconverter.com/): Bulk domain to IP converter
 * [Googleapps Dig](https://toolbox.googleapps.com/apps/dig/): Online Dig tool by Google
@@ -51,9 +51,9 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,382 | 🐛 246 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,626 | 🐛 1 | 🌐 Go | 📅 2026-10-19: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,229 | 🐛 26 | 🌐 Go | 📅 2026-10-15: Directory/File, DNS and VHost busting tool written in Go
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,385 | 🐛 246 | 🌐 Go | 📅 2026-07-19: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,632 | 🐛 6 | 🌐 Go | 📅 2026-10-21: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,233 | 🐛 26 | 🌐 Go | 📅 2026-10-15: Directory/File, DNS and VHost busting tool written in Go
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,064 | 🐛 254 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 678 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 669 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
@@ -76,20 +76,20 @@ Through this repository, we want to put out a list of curated resources which he
 * [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages
 * [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc.
-* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,877 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
+* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,880 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
 * [Office365UserEnum](https://bitbucket.org/grimhacker/office365userenum/src/master/):  Enumerate valid usernames from Office 365 using ActiveSync.
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,085 | 🐛 414 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,088 | 🐛 414 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
 * [Zmap](https://github.com/zmap/zmap) ⭐ 6,406 | 🐛 11 | 🌐 C | 📅 2026-10-08: A fast network scanner designed for Internet-wide network surveys
 * [ZMapv6](https://github.com/tumi8/zmap) ⭐ 123 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
 
 ## [↑](#contents)Business Communication Infrastructure Discovery
 
-* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,467 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: PowerShell based Azure security assessment scripts
-* [ruler](https://github.com/sensepost/ruler) ⭐ 2,309 | 🐛 14 | 🌐 Go | 📅 2024-06-10 : A tool to abuse Exchange services
+* [MicroBurst](https://github.com/NetSPI/MicroBurst) ⭐ 2,469 | 🐛 5 | 🌐 PowerShell | 📅 2026-06-29: PowerShell based Azure security assessment scripts
+* [ruler](https://github.com/sensepost/ruler) ⭐ 2,311 | 🐛 14 | 🌐 Go | 📅 2024-06-10 : A tool to abuse Exchange services
 * [Lyncsmash](https://github.com/nyxgeek/lyncsmash) ⭐ 343 | 🐛 2 | 🌐 Python | 📅 2024-10-01: Tools to enumerate and attack self-hosted Lync/Skype for Business
 * [Enumeration-as-a-Service](https://github.com/sosdave/Enumeration-as-a-Service) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2022-12-07: Script for SaaS offering enumeration through DNS queries
 * [Mxtoolbox](https://mxtoolbox.com/): Online tool to check mail exchanger (MX) records
@@ -109,7 +109,7 @@ Through this repository, we want to put out a list of curated resources which he
 * [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 536 | 🐛 3 | 🌐 Python | 📅 2022-03-07: A tool to spider websites for cloud resources (S3 Buckets, Azure Blobs, DigitalOcean Storage Space)
 * [Spaces-finder](https://github.com/appsecco/spaces-finder) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2020-01-21: A tool to hunt for publicly accessible DigitalOcean Spaces
 * [InSp3ctor](https://github.com/brianwarehime/inSp3ctor) ⭐ 126 | 🐛 1 | 🌐 Python | 📅 2021-07-13: AWS S3 Bucket/Object finder
-* [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 85 | 🐛 0 | 🌐 Ruby | 📅 2025-10-08: Tools to find public data in cloud storage systems
+* [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 86 | 🐛 0 | 🌐 Ruby | 📅 2025-10-08: Tools to find public data in cloud storage systems
 * [Buckets Grayhatwarfare](https://buckets.grayhatwarfare.com/): Search for Open Amazon s3 Buckets and their contents
 
 ## [↑](#contents)Company Information and Associations
@@ -137,7 +137,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Data Leaks
 
 * [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,667 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
-* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 855 | 🐛 1 | 🌐 Python | 📅 2026-10-14: Paste sites crawler (bot) looking for leaked credentials
+* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 856 | 🐛 1 | 🌐 Python | 📅 2026-10-14: Paste sites crawler (bot) looking for leaked credentials
 * [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 449 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
 * [Pastebin\_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information
@@ -176,4 +176,4 @@ This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
