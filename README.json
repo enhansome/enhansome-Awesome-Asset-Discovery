@@ -75,11 +75,11 @@
             "id": 140457254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T03:33:31Z",
-            "open_issues": 251,
+            "last_commit": "2026-10-25T16:13:11Z",
+            "open_issues": 250,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15414,
+            "stars": 15420,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -111,10 +111,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-24T21:19:06Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14659,
+            "stars": 14663,
             "topics": [
               "bugbounty",
               "hacking",
@@ -140,10 +140,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T23:23:00Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14246,
+            "stars": 14247,
             "topics": [
               "dns",
               "go",
@@ -230,7 +230,7 @@
             "open_issues": 4,
             "owner": "darryllane",
             "repo": "Bluto",
-            "stars": 669,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26100,
+            "stars": 26102,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -417,8 +417,8 @@
             "id": 7765403,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T19:49:05Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-25T22:32:45Z",
+            "open_issues": 9,
             "owner": "zmap",
             "repo": "zmap",
             "stars": 6412,
@@ -763,7 +763,7 @@
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "bot",
               "crawler",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:09:23.430Z",
+    "last_updated": "2026-10-26T10:07:55.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
