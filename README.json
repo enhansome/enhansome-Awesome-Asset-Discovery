@@ -79,7 +79,7 @@
             "open_issues": 250,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15424,
+            "stars": 15429,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-26T10:31:32Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-28T14:23:01Z",
+            "open_issues": 1,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14671,
+            "stars": 14678,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 26,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14260,
+            "stars": 14259,
             "topics": [
               "dns",
               "go",
@@ -167,7 +167,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2024-08-02T00:00:30Z",
-            "open_issues": 254,
+            "open_issues": 253,
             "owner": "aboul3la",
             "repo": "Sublist3r",
             "stars": 11073,
@@ -421,7 +421,7 @@
             "open_issues": 9,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6416,
+            "stars": 6417,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2670,
+            "stars": 2672,
             "topics": [
               "api",
               "hacked-emails",
@@ -759,11 +759,11 @@
             "id": 124684873,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T06:53:47Z",
+            "last_commit": "2026-10-29T06:06:05Z",
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "bot",
               "crawler",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:34:54.016Z",
+    "last_updated": "2026-10-29T10:53:57.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
