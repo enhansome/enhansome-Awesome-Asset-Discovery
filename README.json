@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3658,
+            "stars": 3659,
             "topics": [
               "bulk-dns",
               "dns",
@@ -79,7 +79,7 @@
             "open_issues": 251,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15452,
+            "stars": 15457,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T09:46:34Z",
+            "last_commit": "2026-11-03T11:41:02Z",
             "open_issues": 2,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14702,
+            "stars": 14706,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 26,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14263,
+            "stars": 14265,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 253,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11079,
+            "stars": 11080,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -293,7 +293,7 @@
             "open_issues": 2,
             "owner": "lanrat",
             "repo": "certgraph",
-            "stars": 383,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -311,7 +311,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-06T18:11:11Z",
-            "open_issues": 88,
+            "open_issues": 90,
             "owner": "NLnetLabs",
             "repo": "ldns",
             "stars": 364,
@@ -338,7 +338,7 @@
             "open_issues": 10,
             "owner": "anonion0",
             "repo": "nsec3map",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "dns",
               "dns-security",
@@ -417,8 +417,8 @@
             "id": 7765403,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T22:32:45Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-03T01:47:22Z",
+            "open_issues": 8,
             "owner": "zmap",
             "repo": "zmap",
             "stars": 6422,
@@ -754,12 +754,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Crawler (Bot) searching for credential leaks on paste sites.",
+            "description": "Crawler (Bot) searching for leaks on paste sites.",
             "homepage": "https://got-hacked.wtf/",
             "id": 124684873,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T05:46:00Z",
+            "last_commit": "2026-11-03T05:42:16Z",
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:24:38.448Z",
+    "last_updated": "2026-11-03T11:55:55.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -815,7 +815,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2890,
+      "stars": 2889,
       "topics": [
         "asset-discovery",
         "awesome-list",
