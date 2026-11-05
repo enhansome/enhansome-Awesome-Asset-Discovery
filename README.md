@@ -51,16 +51,16 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,461 | 🐛 251 | 🌐 Go | 📅 2026-10-25: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,715 | 🐛 6 | 🌐 Go | 📅 2026-11-03: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,270 | 🐛 26 | 🌐 Go | 📅 2026-10-28: Directory/File, DNS and VHost busting tool written in Go
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,084 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,472 | 🐛 251 | 🌐 Go | 📅 2026-10-25: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,724 | 🐛 8 | 🌐 Go | 📅 2026-11-04: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,277 | 🐛 26 | 🌐 Go | 📅 2026-10-28: Directory/File, DNS and VHost busting tool written in Go
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,085 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 678 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 670 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
-* [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 664 | 🐛 4 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
+* [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 666 | 🐛 4 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
 * [Ct-exposer](https://github.com/chris408/ct-exposer) ⭐ 488 | 🐛 1 | 🌐 Python | 📅 2022-08-16: A tool to discovers sub-domains by searching Certificate Transparency logs
-* [Certgraph](https://github.com/lanrat/certgraph) ⭐ 384 | 🐛 2 | 🌐 Go | 📅 2026-10-11: A tool to crawl the graph of certificate Alternate Names
-* [LDNS](https://github.com/NLnetLabs/ldns) ⭐ 364 | 🐛 90 | 🌐 C | 📅 2026-10-06: A DNS library useful for DNS tool programming
+* [Certgraph](https://github.com/lanrat/certgraph) ⭐ 385 | 🐛 2 | 🌐 Go | 📅 2026-10-11: A tool to crawl the graph of certificate Alternate Names
+* [LDNS](https://github.com/NLnetLabs/ldns) ⭐ 364 | 🐛 91 | 🌐 C | 📅 2026-10-06: A DNS library useful for DNS tool programming
 * [Nsec3map](https://github.com/anonion0/nsec3map) ⭐ 220 | 🐛 10 | 🌐 Python | 📅 2023-03-06: A tool to NSEC and NSEC3 walking
 * [SSLScrape](https://github.com/jhaddix/sslScrape) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2019-01-19: A scanning tool to scrape hostnames from SSL certificates
 * [RedHunt Labs Attack Surface Recon API](https://devportal.redhuntlabs.com/home): RedHunt Labs' Recon API offers comprehensive domain intelligence and reconnaissance capabilities. With access to their extensive in-house database of over 6 billion records, including domains, subdomains, third-party SaaS, data leaks, and intelligent correlations, this API empowers you to enhance your Attack Surface Management and InfoSec workflows.
@@ -76,7 +76,7 @@ Through this repository, we want to put out a list of curated resources which he
 * [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages
 * [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc.
-* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,890 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
+* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,891 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
 * [Office365UserEnum](https://bitbucket.org/grimhacker/office365userenum/src/master/):  Enumerate valid usernames from Office 365 using ActiveSync.
 
 ## [↑](#contents)Network / Port Scanning
@@ -106,7 +106,7 @@ Through this repository, we want to put out a list of curated resources which he
 ## [↑](#contents)Cloud Infrastructure Discovery
 
 * [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) ⭐ 574 | 🐛 7 | 🌐 Python | 📅 2023-05-26: A Google Storage buckets enumeration script
-* [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 536 | 🐛 3 | 🌐 Python | 📅 2022-03-07: A tool to spider websites for cloud resources (S3 Buckets, Azure Blobs, DigitalOcean Storage Space)
+* [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 537 | 🐛 3 | 🌐 Python | 📅 2022-03-07: A tool to spider websites for cloud resources (S3 Buckets, Azure Blobs, DigitalOcean Storage Space)
 * [Spaces-finder](https://github.com/appsecco/spaces-finder) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2020-01-21: A tool to hunt for publicly accessible DigitalOcean Spaces
 * [InSp3ctor](https://github.com/brianwarehime/inSp3ctor) ⭐ 126 | 🐛 1 | 🌐 Python | 📅 2021-07-13: AWS S3 Bucket/Object finder
 * [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 86 | 🐛 0 | 🌐 Ruby | 📅 2025-10-08: Tools to find public data in cloud storage systems
@@ -136,8 +136,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Data Leaks
 
-* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,673 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
-* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 870 | 🐛 1 | 🌐 Python | 📅 2026-11-04: Paste sites crawler (bot) looking for leaked credentials
+* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,674 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
+* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 873 | 🐛 1 | 🌐 Python | 📅 2026-11-04: Paste sites crawler (bot) looking for leaked credentials
 * [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 449 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
 * [Pastebin\_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information
@@ -176,4 +176,4 @@ This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
