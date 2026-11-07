@@ -79,7 +79,7 @@
             "open_issues": 251,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15475,
+            "stars": 15478,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T23:47:41Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-06T21:13:13Z",
+            "open_issues": 2,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14735,
+            "stars": 14742,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 26,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14280,
+            "stars": 14281,
             "topics": [
               "dns",
               "go",
@@ -293,7 +293,7 @@
             "open_issues": 2,
             "owner": "lanrat",
             "repo": "certgraph",
-            "stars": 385,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -417,7 +417,7 @@
             "id": 7765403,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T01:47:22Z",
+            "last_commit": "2026-11-07T04:33:10Z",
             "open_issues": 8,
             "owner": "zmap",
             "repo": "zmap",
@@ -474,7 +474,7 @@
             "open_issues": 5,
             "owner": "NetSPI",
             "repo": "MicroBurst",
-            "stars": 2471,
+            "stars": 2470,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -495,7 +495,7 @@
             "open_issues": 14,
             "owner": "sensepost",
             "repo": "ruler",
-            "stars": 2310,
+            "stars": 2309,
             "topics": [
               "exchange",
               "mapi",
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6199,
+            "stars": 6198,
             "topics": [
               "github-api",
               "golang",
@@ -609,7 +609,7 @@
             "open_issues": 7,
             "owner": "RhinoSecurityLabs",
             "repo": "GCPBucketBrute",
-            "stars": 574,
+            "stars": 573,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2675,
+            "stars": 2674,
             "topics": [
               "api",
               "hacked-emails",
@@ -763,7 +763,7 @@
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 874,
+            "stars": 875,
             "topics": [
               "bot",
               "crawler",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:06:31.509Z",
+    "last_updated": "2026-11-07T11:03:55.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
