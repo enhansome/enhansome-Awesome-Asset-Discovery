@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "blechschmidt",
             "repo": "massdns",
-            "stars": 3662,
+            "stars": 3664,
             "topics": [
               "bulk-dns",
               "dns",
@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3338,
+            "stars": 3339,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -75,11 +75,11 @@
             "id": 140457254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T06:37:04Z",
+            "last_commit": "2026-11-12T06:23:11Z",
             "open_issues": 250,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15500,
+            "stars": 15508,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -114,7 +114,7 @@
             "open_issues": 4,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14774,
+            "stars": 14784,
             "topics": [
               "bugbounty",
               "hacking",
@@ -139,11 +139,11 @@
             "id": 26639347,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T04:01:57Z",
+            "last_commit": "2026-11-12T04:02:16Z",
             "open_issues": 26,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14302,
+            "stars": 14308,
             "topics": [
               "dns",
               "go",
@@ -191,7 +191,7 @@
             "open_issues": 4,
             "owner": "blark",
             "repo": "aiodnsbrute",
-            "stars": 680,
+            "stars": 681,
             "topics": [
               "async",
               "brute-force",
@@ -400,7 +400,7 @@
             "open_issues": 414,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26140,
+            "stars": 26144,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 8,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6430,
+            "stars": 6431,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -759,11 +759,11 @@
             "id": 124684873,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T05:15:21Z",
+            "last_commit": "2026-11-12T06:00:31Z",
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "bot",
               "crawler",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:52:53.233Z",
+    "last_updated": "2026-11-12T12:43:10.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
@@ -815,7 +815,7 @@
       "open_issues": 20,
       "owner": "redhuntlabs",
       "repo": "Awesome-Asset-Discovery",
-      "stars": 2899,
+      "stars": 2901,
       "topics": [
         "asset-discovery",
         "awesome-list",
