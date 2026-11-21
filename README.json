@@ -75,11 +75,11 @@
             "id": 140457254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T04:57:23Z",
-            "open_issues": 254,
+            "last_commit": "2026-11-21T07:16:56Z",
+            "open_issues": 255,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15539,
+            "stars": 15543,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-19T13:25:55Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-21T04:41:56Z",
+            "open_issues": 7,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14836,
+            "stars": 14842,
             "topics": [
               "bugbounty",
               "hacking",
@@ -140,10 +140,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T04:02:24Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14339,
+            "stars": 14341,
             "topics": [
               "dns",
               "go",
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26174,
+            "stars": 26177,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -418,10 +418,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T04:33:10Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6432,
+            "stars": 6433,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6200,
+            "stars": 6199,
             "topics": [
               "github-api",
               "golang",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:53:55.199Z",
+    "last_updated": "2026-11-21T12:39:29.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
