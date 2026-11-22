@@ -52,7 +52,7 @@
             "open_issues": 107,
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3343,
+            "stars": 3342,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -75,11 +75,11 @@
             "id": 140457254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T07:16:56Z",
+            "last_commit": "2026-11-22T07:48:39Z",
             "open_issues": 255,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15543,
+            "stars": 15547,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-21T04:41:56Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-21T17:52:41Z",
+            "open_issues": 5,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14842,
+            "stars": 14845,
             "topics": [
               "bugbounty",
               "hacking",
@@ -143,7 +143,7 @@
             "open_issues": 27,
             "owner": "OJ",
             "repo": "gobuster",
-            "stars": 14341,
+            "stars": 14344,
             "topics": [
               "dns",
               "go",
@@ -170,7 +170,7 @@
             "open_issues": 254,
             "owner": "aboul3la",
             "repo": "Sublist3r",
-            "stars": 11099,
+            "stars": 11101,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26177,
+            "stars": 26176,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -417,11 +417,11 @@
             "id": 7765403,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T04:33:10Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-21T20:00:44Z",
+            "open_issues": 8,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6433,
+            "stars": 6436,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -577,7 +577,7 @@
             "open_issues": 74,
             "owner": "michenriksen",
             "repo": "gitrob",
-            "stars": 6199,
+            "stars": 6198,
             "topics": [
               "github-api",
               "golang",
@@ -759,11 +759,11 @@
             "id": 124684873,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T04:41:55Z",
+            "last_commit": "2026-11-22T06:07:46Z",
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 883,
+            "stars": 884,
             "topics": [
               "bot",
               "crawler",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:39:29.407Z",
+    "last_updated": "2026-11-22T12:35:57.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
