@@ -34,8 +34,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)IP Address Discovery
 
-* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,670 | 🐛 14 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
-* [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,342 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
+* [Massdns](https://github.com/blechschmidt/massdns) ⭐ 3,669 | 🐛 14 | 🌐 C | 📅 2026-09-27: A DNS resolver utility for bulk lookups
+* [DataSploit (IP Address Modules)](https://github.com/DataSploit/datasploit/tree/master/ip) ⭐ 3,343 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An OSINT Framework to perform various recon techniques
 * [Mxtoolbox](https://mxtoolbox.com/BulkLookup.aspx): Bulk Domain/IP lookup tool
 * [Domaintoipconverter](http://domaintoipconverter.com/): Bulk domain to IP converter
 * [Googleapps Dig](https://toolbox.googleapps.com/apps/dig/): Online Dig tool by Google
@@ -51,9 +51,9 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,547 | 🐛 255 | 🌐 Go | 📅 2026-11-22: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,845 | 🐛 5 | 🌐 Go | 📅 2026-11-21: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,344 | 🐛 27 | 🌐 Go | 📅 2026-11-18: Directory/File, DNS and VHost busting tool written in Go
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,552 | 🐛 255 | 🌐 Go | 📅 2026-11-23: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,850 | 🐛 4 | 🌐 Go | 📅 2026-11-22: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,350 | 🐛 27 | 🌐 Go | 📅 2026-11-18: Directory/File, DNS and VHost busting tool written in Go
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,101 | 🐛 254 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
 * [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 680 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 670 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
@@ -76,13 +76,13 @@ Through this repository, we want to put out a list of curated resources which he
 * [Skrapp](https://www.skrapp.io/): Browser addon to find emails on Linkedin
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en): Chrome extension to extract emails from web pages
 * [Convertcsv](http://convertcsv.com/email-extractor.htm): Online tool to extract email addresses in text, web pages, data files etc.
-* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,913 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
+* [linkedin2username](https://github.com/initstring/linkedin2username) ⭐ 1,914 | 🐛 1 | 🌐 Python | 📅 2026-05-20: OSINT Tool: Generate username lists for companies on LinkedIn
 * [Office365UserEnum](https://bitbucket.org/grimhacker/office365userenum/src/master/):  Enumerate valid usernames from Office 365 using ActiveSync.
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,176 | 🐛 415 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
-* [Zmap](https://github.com/zmap/zmap) ⭐ 6,436 | 🐛 8 | 🌐 C | 📅 2026-11-21: A fast network scanner designed for Internet-wide network surveys
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,179 | 🐛 415 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
+* [Zmap](https://github.com/zmap/zmap) ⭐ 6,437 | 🐛 8 | 🌐 C | 📅 2026-11-21: A fast network scanner designed for Internet-wide network surveys
 * [ZMapv6](https://github.com/tumi8/zmap) ⭐ 123 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
 
@@ -105,7 +105,7 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Cloud Infrastructure Discovery
 
-* [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) ⭐ 576 | 🐛 7 | 🌐 Python | 📅 2023-05-26: A Google Storage buckets enumeration script
+* [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute) ⭐ 575 | 🐛 7 | 🌐 Python | 📅 2023-05-26: A Google Storage buckets enumeration script
 * [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 539 | 🐛 3 | 🌐 Python | 📅 2022-03-07: A tool to spider websites for cloud resources (S3 Buckets, Azure Blobs, DigitalOcean Storage Space)
 * [Spaces-finder](https://github.com/appsecco/spaces-finder) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2020-01-21: A tool to hunt for publicly accessible DigitalOcean Spaces
 * [InSp3ctor](https://github.com/brianwarehime/inSp3ctor) ⭐ 126 | 🐛 1 | 🌐 Python | 📅 2021-07-13: AWS S3 Bucket/Object finder
@@ -176,4 +176,4 @@ This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
