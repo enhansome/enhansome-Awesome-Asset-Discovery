@@ -51,11 +51,11 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Domain / Subdomain Discovery
 
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,552 | 🐛 255 | 🌐 Go | 📅 2026-11-23: A subdomain enumeration utility
-* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,850 | 🐛 4 | 🌐 Go | 📅 2026-11-22: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
-* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,350 | 🐛 27 | 🌐 Go | 📅 2026-11-18: Directory/File, DNS and VHost busting tool written in Go
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,553 | 🐛 255 | 🌐 Go | 📅 2026-11-24: A subdomain enumeration utility
+* [SubFinder](https://github.com/subfinder/subfinder) ⭐ 14,854 | 🐛 4 | 🌐 Go | 📅 2026-11-23: SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [GoBuster](https://github.com/OJ/gobuster) ⭐ 14,350 | 🐛 27 | 🌐 Go | 📅 2026-11-24: Directory/File, DNS and VHost busting tool written in Go
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,101 | 🐛 254 | 🌐 Python | 📅 2024-08-02: Subdomains enumeration tool with multiple sources
-* [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 680 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
+* [Aiodnsbrute](https://github.com/blark/aiodnsbrute) ⭐ 681 | 🐛 4 | 🌐 Python | 📅 2023-10-22: Asynchronous DNS brute force utility
 * [Bluto](https://github.com/darryllane/Bluto) ⭐ 670 | 🐛 4 | 🌐 Python | 📅 2022-09-24: Recon, Subdomain Bruting, Zone Transfers
 * [Appsecco - The art of subdomain enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration) ⭐ 666 | 🐛 3 | 🌐 Python | 📅 2019-01-30: The supplement material for the book "The art of sub-domain enumeration"
 * [Ct-exposer](https://github.com/chris408/ct-exposer) ⭐ 486 | 🐛 1 | 🌐 Python | 📅 2022-08-16: A tool to discovers sub-domains by searching Certificate Transparency logs
@@ -81,8 +81,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Network / Port Scanning
 
-* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,179 | 🐛 415 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
-* [Zmap](https://github.com/zmap/zmap) ⭐ 6,437 | 🐛 8 | 🌐 C | 📅 2026-11-21: A fast network scanner designed for Internet-wide network surveys
+* [Masscan](https://github.com/robertdavidgraham/masscan) ⭐ 26,180 | 🐛 415 | 🌐 C | 📅 2026-10-05: An asynchronously TCP port scanner
+* [Zmap](https://github.com/zmap/zmap) ⭐ 6,438 | 🐛 8 | 🌐 C | 📅 2026-11-21: A fast network scanner designed for Internet-wide network surveys
 * [ZMapv6](https://github.com/tumi8/zmap) ⭐ 123 | 🐛 3 | 🌐 C | 📅 2025-10-31: A modified version of Zmap with IPv6 support.
 * [Nmap](https://nmap.org/): A free and open source utility for network discovery. The most popular port scanner.
 
@@ -136,8 +136,8 @@ Through this repository, we want to put out a list of curated resources which he
 
 ## [↑](#contents)Data Leaks
 
-* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,685 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
-* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 884 | 🐛 1 | 🌐 Python | 📅 2026-11-22: Paste sites crawler (bot) looking for leaked credentials
+* [PwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,684 | 🐛 6 | 🌐 Python | 📅 2026-03-28: Tool to find passwords for compromised accounts
+* [Scavenger](https://github.com/rndinfosecguy/Scavenger) ⭐ 885 | 🐛 1 | 🌐 Python | 📅 2026-11-24: Paste sites crawler (bot) looking for leaked credentials
 * [Pwnbin](https://github.com/kahunalu/pwnbin) ⭐ 449 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python based Pastebin crawler for keywords.
 * [Dumpmon](https://twitter.com/dumpmon): A twitter bot which monitors multiple paste sites for password dumps and other sensitive information
 * [Pastebin\_scraper](https://github.com/Critical-Start/pastebin_scraper): Automated tool to monitor pastebin for interesting information
@@ -176,4 +176,4 @@ This work is licensed under [**CC0 1.0 Universal**](https://github.com/redhuntla
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

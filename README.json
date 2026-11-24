@@ -75,11 +75,11 @@
             "id": 140457254,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T06:38:30Z",
+            "last_commit": "2026-11-24T01:52:35Z",
             "open_issues": 255,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15552,
+            "stars": 15553,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -110,11 +110,11 @@
             "id": 127519518,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-22T14:09:37Z",
+            "last_commit": "2026-11-23T18:05:34Z",
             "open_issues": 4,
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14850,
+            "stars": 14854,
             "topics": [
               "bugbounty",
               "hacking",
@@ -139,7 +139,7 @@
             "id": 26639347,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T04:02:24Z",
+            "last_commit": "2026-11-24T07:39:10Z",
             "open_issues": 27,
             "owner": "OJ",
             "repo": "gobuster",
@@ -191,7 +191,7 @@
             "open_issues": 4,
             "owner": "blark",
             "repo": "aiodnsbrute",
-            "stars": 680,
+            "stars": 681,
             "topics": [
               "async",
               "brute-force",
@@ -400,7 +400,7 @@
             "open_issues": 415,
             "owner": "robertdavidgraham",
             "repo": "masscan",
-            "stars": 26179,
+            "stars": 26180,
             "topics": []
           },
           "first_seen": "2026-08-28T16:39:23.274Z"
@@ -421,7 +421,7 @@
             "open_issues": 8,
             "owner": "zmap",
             "repo": "zmap",
-            "stars": 6437,
+            "stars": 6438,
             "topics": [
               "internet-measurement",
               "internet-scanning",
@@ -735,7 +735,7 @@
             "open_issues": 6,
             "owner": "thewhiteh4t",
             "repo": "pwnedOrNot",
-            "stars": 2685,
+            "stars": 2684,
             "topics": [
               "api",
               "hacked-emails",
@@ -759,11 +759,11 @@
             "id": 124684873,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T06:07:46Z",
+            "last_commit": "2026-11-24T04:54:47Z",
             "open_issues": 1,
             "owner": "rndinfosecguy",
             "repo": "Scavenger",
-            "stars": 884,
+            "stars": 885,
             "topics": [
               "bot",
               "crawler",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T14:39:18.200Z",
+    "last_updated": "2026-11-24T14:52:37.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Asset Discovery Resources",
